@@ -298,7 +298,7 @@
             "Plaintext": "The unencrypted (plaintext) data key."
           }
         },
-        "description": "The following example generates a 256-bit symmetric data encryption key (data key) in two formats. One is the unencrypted (plainext) data key, and the other is the data key encrypted with the specified customer master key (CMK).",
+        "description": "The following example generates a 256-bit symmetric data encryption key (data key) in two formats. One is the unencrypted (plaintext) data key, and the other is the data key encrypted with the specified customer master key (CMK).",
         "id": "to-generate-a-data-key-1478912956062",
         "title": "To generate a data key"
       }
